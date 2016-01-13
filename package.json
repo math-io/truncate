@@ -1,6 +1,6 @@
 {
   "name": "math-truncate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Rounds a numeric value toward zero.",
   "author": {
     "name": "Athan Reines",
